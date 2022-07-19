@@ -4,7 +4,6 @@ import os
 from bs4 import BeautifulSoup
 import time
 
-# path= E:\web scraping\chromedriver_win32\chromedriver.exe
 path = input("Enter Path : ")
 
 url = input("Enter URL : ")
